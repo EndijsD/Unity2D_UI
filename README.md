@@ -12,3 +12,4 @@ Pirmais Unity 2D projekts, apgūstam UI elementus
 - [x] Nodrošināt attēla izmēra maiņu ar bīdjoslu
 - [x] Nodrošināt attēla pārvietošanu ar peles palīdzību
 - [x] Pievienot audio failus
+- [x] Izveidot scroll view UI elementu
